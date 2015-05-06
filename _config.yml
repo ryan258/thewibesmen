@@ -7,10 +7,9 @@ url: "http://thewibesmen.com" # the base hostname & protocol for your site
 
 #Social Settings
 soundcloud: https://soundcloud.com/
-facebook: https://www.facebook.com/
-youtube: https://www.youtube.com/channel/UCfND1vy3tgvxS2GO7gfdqEQ
-twitter_username: jekyllrb
-github_username:  jekyll
+facebook: TheWibesmen
+youtube: https://www.youtube.com/
+twitter_username: thewibesmen
 
 # Build settings
 markdown: kramdown
