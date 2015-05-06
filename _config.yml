@@ -1,14 +1,13 @@
 # Site settings
-title: Paraselene Rock
-email: paraselene.rock@gmail.com
-description: Alternative Rock Straight Out of Buenos Aires!
-baseurl: "http://ryan258.github.io/paraselene/" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+title: The Wibesmen
+email: nybergica777@gmail.com
+description: Go Wibesmen!
+baseurl: "http://ryan258.github.io/thewibesmen/" # the subpath of your site, e.g. /blog/
+url: "http://thewibesmen.com" # the base hostname & protocol for your site
 
 #Social Settings
-soundcloud: https://soundcloud.com/paraselene-rock
-facebook: https://www.facebook.com/paraselene.rock
-purevolume: http://www.purevolume.com/Paraselene
+soundcloud: https://soundcloud.com/
+facebook: https://www.facebook.com/
 youtube: https://www.youtube.com/channel/UCfND1vy3tgvxS2GO7gfdqEQ
 twitter_username: jekyllrb
 github_username:  jekyll
